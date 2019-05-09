@@ -1,0 +1,22 @@
+undirected
+10
+Berlin
+Leipzig
+Braunschwig
+Hannover
+Köln
+Frankfurt
+München
+Stuttgart
+Nürnberg
+Erfurt
+Erfurt Leipzig
+Berlin Lipzig
+Berlin Braunschwig
+Berlin Erfurt
+Braunschwig Hannover
+Hannover Köln
+Köln Frankfurt
+Frankfurt München
+Nürnberg München
+Nürnberg Stuttgart
